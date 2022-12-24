@@ -1,4 +1,4 @@
-A collection of LICENSEs.
+## A collection of LICENSEs.
 
 * MIT License
 * Apache License 2.0
