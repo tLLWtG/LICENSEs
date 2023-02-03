@@ -4,3 +4,4 @@
 * Apache License 2.0
 * SATA License
 * GNU GPLv3
+* The Unlicense
